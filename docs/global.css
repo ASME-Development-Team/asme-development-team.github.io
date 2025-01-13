@@ -4,5 +4,12 @@
 }
 
 body {
-  font-family: 'MyWebFont', Fallback, sans-serif;
+  font-family: 'futura', Fallback, sans-serif;
+}
+
+.title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 58%;
 }
